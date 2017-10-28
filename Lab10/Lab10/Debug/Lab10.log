@@ -1,0 +1,4 @@
+﻿  Lab10.cpp
+c:\users\nick\documents\visual studio 2015\projects\lab10\lab10\lab10.cpp(22): warning C4101: 'num': unreferenced local variable
+  Lab10.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2015\Projects\Lab10\Debug\Lab10.exe
+  Lab10.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2015\Projects\Lab10\Debug\Lab10.pdb (Full PDB)

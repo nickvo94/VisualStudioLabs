@@ -1,0 +1,7 @@
+﻿  TestProject.cpp
+c:\users\nick\documents\visual studio 2015\projects\testproject\testproject\testproject.cpp(9): error C2065: 'point': undeclared identifier
+c:\users\nick\documents\visual studio 2015\projects\testproject\testproject\testproject.cpp(9): error C2146: syntax error: missing ';' before identifier 'P'
+c:\users\nick\documents\visual studio 2015\projects\testproject\testproject\testproject.cpp(9): error C2065: 'P': undeclared identifier
+  String.cpp
+c:\users\nick\documents\visual studio 2015\projects\lib\string.cpp(1): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+  Generating Code...

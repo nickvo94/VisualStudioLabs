@@ -1,0 +1,4 @@
+﻿  Lab11.cpp
+c:\users\nick\documents\visual studio 2015\projects\lab11\lab11\lab11.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab11.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2015\Projects\Lab11\Debug\Lab11.exe
+  Lab11.vcxproj -> C:\Users\Nick\Documents\Visual Studio 2015\Projects\Lab11\Debug\Lab11.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Lab5bonus.cpp
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(9): error C2143: syntax error: missing ',' before '&'
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(10): error C2065: 'p': undeclared identifier
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(14): error C2065: 'String': undeclared identifier
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(14): error C2146: syntax error: missing ';' before identifier 's'
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(14): error C3861: 's': identifier not found
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(15): error C2065: 's': undeclared identifier
+c:\users\nick\documents\visual studio 2015\projects\lab5bonus\lab5bonus\lab5bonus.cpp(16): error C2065: 's': undeclared identifier
+  String.cpp
+c:\users\nick\documents\visual studio 2015\projects\lab6\lab6\string.cpp(104): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

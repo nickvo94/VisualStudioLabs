@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestProject", "TestProject\TestProject.vcxproj", "{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{C24054B9-3F83-4C15-BFF9-EB1B7C23595B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7A37645-D247-43CB-96D0-972667F2281C}"
+	ProjectSection(SolutionItems) = preProject
+		..\lib\Point.cpp = ..\lib\Point.cpp
+		..\lib\point.h = ..\lib\point.h
+		..\lib\String.cpp = ..\lib\String.cpp
+		..\lib\String.h = ..\lib\String.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Debug|x64.ActiveCfg = Debug|x64
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Debug|x64.Build.0 = Debug|x64
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Debug|x86.Build.0 = Debug|Win32
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Release|x64.ActiveCfg = Release|x64
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Release|x64.Build.0 = Release|x64
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Release|x86.ActiveCfg = Release|Win32
+		{B14322DB-74ED-4F2A-A4C9-2BEBADB6E81A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
